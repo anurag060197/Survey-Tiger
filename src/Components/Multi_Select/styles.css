@@ -1,0 +1,7 @@
+textarea{
+    width: 50rem;
+}
+#button{
+    display: flex;
+    justify-content:space-evenly;
+}

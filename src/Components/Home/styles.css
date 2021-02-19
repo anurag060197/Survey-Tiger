@@ -1,0 +1,23 @@
+#img{
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+img{
+    height: 7rem;
+    width: 7rem;
+    margin: 3px;
+}
+p{
+    display: inline;
+    font-family: 'Indie Flower', cursive;
+    /* font-family: 'Lobster', cursive; */
+    font-size: 5rem;
+    margin: 3px;
+}
+
+#btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
